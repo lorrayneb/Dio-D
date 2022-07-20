@@ -1,0 +1,29 @@
+# Conceitos básicos sobre Git e GitHub:
+
+<p> Para começar é importante entender que Git e GitHub não são a mesma coisa!
+
+## Git é:
+Um Software de Controle Versão do tipo distribuído, é uma ferramenta de versionamento de código.
+É um repositório Local, que permite que você tenha acesso as nuances dos seus projetos na sua máquina, como se fosse uma caixinha com toda a linha do tempo do projeto.
+
+### Ele tem como vantagens:
+Controle de Histórico;
+Trabalho em Equipe;
+Ramificação do Projeto;
+Segurança;
+Organização.
+
+## GitHub é:
+Um dos mais repositórios remotos mais famosos que existem.
+Ele permite que você compartilhe seus projetos com outros programadores.
+Permite também, que você interaja com as pessoas e com os projetos delas, como uma Rede Social de programadores.
+
+### Ele tem como vantagens:
+Repositórios Ilimitados;
+Hospedagem de Código-Fonte;
+Características de Rede Social;
+GitHub Pages Integrado;
+Colaboração/Comunidade;
+Forks.
+
+<p> Esse foi um pequeno resumo das diferenças entre o git e o Github. :)
