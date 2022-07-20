@@ -7,5 +7,8 @@ DESAFIO DE PROJETO, módulo 1:
 
 Estou estudando Git e GitHub tanto pelo Bootcamp quanto pelo YouYube para entender melhor o que é, para que serve, como funciona e como utilizá-lo.
 
-## Link do YouTube:
+### Link de download Git:
+[Download Git](https://git-scm.com/downloads)
+
+### Link da Playlist do YouTube:
 [Curso de Git e Github](https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
